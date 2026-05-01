@@ -135,4 +135,3 @@ Add demand forecasting models
 Enable real-time data refresh
 Expand dashboard with profitability simulations
 
-If you want next, I can:
